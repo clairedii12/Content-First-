@@ -52,4 +52,16 @@ margin-top: 50px;
 
 section {
 margin-bottom: 60px;
+
+}
+.pic{
+text-align: center;
+}
+
+.weights{
+font-weight: 200;
+font-weight: bold;
+font-weight: 400;
+font-family: tahoma;
+text-align: center;
 }
