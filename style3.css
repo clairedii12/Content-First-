@@ -37,7 +37,7 @@ text-align: center;
 .styles {
 font-family: tahoma;
 font-size: 120%;
-padding-top: 250px;
+
 text-align: center;
 }
 
@@ -64,4 +64,13 @@ font-weight: bold;
 font-weight: 400;
 font-family: tahoma;
 text-align: center;
+
+}
+
+.tryme {  
+border: none;   
+font-size: 30px;
+font-family: tahoma; 
+background: #dadada;
+padding: 10px;
 }
