@@ -67,10 +67,12 @@ text-align: center;
 
 }
 
-.tryme {  
+.tryme textarea {  
 border: none;   
 font-size: 30px;
 font-family: tahoma; 
-background: #dadada;
+background: #ffffff;
 padding: 10px;
+margin-left: 175px ;
+margin-right: 200px;
 }
