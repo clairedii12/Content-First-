@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=East+Sea+Dokdo');
+
+body {
+text-align: center;
+font-style: oblique;
+color: indigo;
+padding-top: 200px;
+background-color: midnightblue;
+}
+
+.haiku {
+font-size: 300%;
+color: white;
+font-family: East Sea Dokdo, cursive;
+text-shadow: 2px 4px 10px lightskyblue;
+border-style: double;
+}
