@@ -1,20 +1,21 @@
 .font {
 font-family: tahoma;
-font-size: 800%;
+font-size: 1em;
 text-align: center;
 padding-top: 30px;
 color:whitesmoke ;
 border: 20px whitesmoke;
 border-style: double;
 border-top-color: #8fbc8f;
-border-bottom-color:#8fbc8f; ;
+border-bottom-color:#8fbc8f;
+line-height: 1.5;
 }
 .nav {
 text-align: center;
 }
 .nav a {
 font-family: tahoma;
-font-size: 200%;
+font-size: 1em;
 color: darkseagreen;
 }
 .nav a:hover {
